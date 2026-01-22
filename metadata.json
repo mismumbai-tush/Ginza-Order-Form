@@ -1,0 +1,7 @@
+{
+  "name": "Ginza Industries Order Management",
+  "description": "A comprehensive order management portal for Ginza Industries featuring Supabase authentication, customer/item search, dynamic salesperson lists, and order history tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
